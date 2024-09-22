@@ -3,8 +3,8 @@
     "name": "faction of sciences",
     "leaderName": "Prophet",
     "adjective": ["scientifically"],
-    "startBias": [],
-    "preferredVictoryType": "",
+    "startBias": ["Mountain"],
+    "preferredVictoryType": "Scientific",
 
     "startIntro": "The people hope that you will be able to glorify science in this round.",
 
