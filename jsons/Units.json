@@ -2,5 +2,8 @@
   {
     "name": "Hungarian battleship",
     "unitType": "Melee Water",
+    "uniqueTo": "Hungarian Soviet Socialist Republic(HSSR)",
+    "movement": 6,
+  //"": "",
   },
 ]
