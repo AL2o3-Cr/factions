@@ -51,9 +51,49 @@
 			"[+70]% [Science] <while the empire is happy>",
 	        //"[+100]% [science] from "
 			],
-		"cities": ["AA-00", "AB-00", "AC-00", "AD-00", "BA-00", "BB-00", "BC-00", "BD-00", "CA-00", "CB-00", "CC-00", "CD-00", "DA-00", "DB-00", "DC-00", "DD-00",
-			"AA-01", "AB-01", "AC-01", "AD-01", "BA-01", "BB-01", "BC-01", "BD-01", "CA-01", "CB-01", "CC-00", "CD-00", "DA-00", "DB-00", "DC-00", "DD-00",
-			"AA-10", "AB-10", "AC-10", "AD-10", "BA-10", "BB-10", "BC-10", "BD-00", "CA-10", "CB-10", "CC-00", "CD-00", "DA-00", "DB-00", "DC-00", "DD-00"],
+		"cities": ["Budapest", "Debrecen", "Szeged", "Miskolc", "PECs", "
+Gyor", "
+Nyíregyháza", "
+Kecskemet", "
+Székesfehérvár", "
+Szombathely", "
+Szolnok", "
+Tatabánya", "
+ERD", "
+Sopron
+Veszprém", Békéscsaba	Zalaegerszeg
+Eger
+20	Hodmezovasarhely	48 909
+21	Nagykanizsa	48 664
+22	Dunaújváros	46 320
+23	Hajdúszoboszló	44 795
+24	Cegled	38 220
+25	Bahia	37 690
+26	Salgotarjan	37 166
+27	Ued	37 040
+28	Szekszárd	33 720
+29	Gyöngyös	33 553
+30	VAC	33 323
+31	Dad	33 080
+32	Gödöllő	32 495
+33	Gyula	32 239
+34	Hajduboszormeny	32 228
+35	Szentes	31 082
+36	Kiskunfélegyháza	30 946
+37	Mosonmagyaróvár	30 840
+38	Kazincbarcika	30 709
+39	Orosháza	30 688
+40	IKE	29 685
+41	Esztergom	28 412
+42	Budaors	27 655
+43	Siófok	25 355
+44	Mako	24 403
+45	Szentendre	24 010
+46	Keszthely	20 215
+47	Paks	19 387
+48	Szarvas	18 653
+49	Kalocsa	18 187
+50	Sátoraljaújhely"],
 		"spyNames": ["00000000", "00000001", "00000010", "00000011", "00000100", "00000101", "00000110", "00000111", "00001000"]
 	},
 ]
