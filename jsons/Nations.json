@@ -63,37 +63,34 @@ ERD", "
 Sopron
 Veszprém", Békéscsaba	Zalaegerszeg
 Eger
-20	Hodmezovasarhely	48 909
-21	Nagykanizsa	48 664
-22	Dunaújváros	46 320
-23	Hajdúszoboszló	44 795
-24	Cegled	38 220
-25	Bahia	37 690
-26	Salgotarjan	37 166
-27	Ued	37 040
-28	Szekszárd	33 720
-29	Gyöngyös	33 553
-30	VAC	33 323
-31	Dad	33 080
-32	Gödöllő	32 495
-33	Gyula	32 239
-34	Hajduboszormeny	32 228
-35	Szentes	31 082
-36	Kiskunfélegyháza	30 946
-37	Mosonmagyaróvár	30 840
-38	Kazincbarcika	30 709
-39	Orosháza	30 688
-40	IKE	29 685
-41	Esztergom	28 412
-42	Budaors	27 655
-43	Siófok	25 355
-44	Mako	24 403
-45	Szentendre	24 010
-46	Keszthely	20 215
-47	Paks	19 387
-48	Szarvas	18 653
-49	Kalocsa	18 187
-50	Sátoraljaújhely"],
+Hodmezovasarhely
+Nagykanizsa
+Dunaújváros
+Hajdúszoboszló
+Cegled
+Bahia
+Salgotarjan
+Szekszárd
+Gyöngyös
+VAC
+31	Dad
+32	Gödöllő
+33	Gyula
+34	Hajduboszormeny
+35	Szentes
+36	Kiskunfélegyháza
+37	Mosonmagyaróvár
+38	Kazincbarcika
+39	Orosháza
+40	IKE
+41	Esztergom
+42	Budaors
+43	Siófok
+44	Mako
+45	Szentendre
+46	Keszthely
+47	Paks
+48	Szarvas", "Kalocsa", "Sátoraljaújhely"],
 		"spyNames": ["00000000", "00000001", "00000010", "00000011", "00000100", "00000101", "00000110", "00000111", "00001000"]
 	},
 ]
