@@ -29,12 +29,12 @@
 	},
 	{
 		"name": "Hungarian Soviet Socialist Republic(HSSR)",
-		"liderName": "i",
-		"adjective": ["yu"],
+		"liderName": "Bel Kun",
+		"adjective": ["HSSR"],
 		"startBias": ["Mountain"],
-		"personality": "gfvjk",
+		"personality": "Stalin to Bel Kun",
 		"preferredVictoryType": "Scientific",
-		"startIntro": "The people hope that you will be able to glorify science in this round.",
+		"startIntro": "By following my instructions, you will lead your country to prosperity.",
 
 		"declaringWar": "see you in the next round",
 		"attacked": "you prevent us from relaxing science and we will destroy you",
