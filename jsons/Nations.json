@@ -51,46 +51,10 @@
 			"[+70]% [Science] <while the empire is happy>",
 	        //"[+100]% [science] from "
 			],
-		"cities": ["Budapest", "Debrecen", "Szeged", "Miskolc", "PECs", "
-Gyor", "
-Nyíregyháza", "
-Kecskemet", "
-Székesfehérvár", "
-Szombathely", "
-Szolnok", "
-Tatabánya", "
-ERD", "
-Sopron
-Veszprém", Békéscsaba	Zalaegerszeg
-Eger
-Hodmezovasarhely
-Nagykanizsa
-Dunaújváros
-Hajdúszoboszló
-Cegled
-Bahia
-Salgotarjan
-Szekszárd
-Gyöngyös
-VAC
-31	Dad
-32	Gödöllő
-33	Gyula
-34	Hajduboszormeny
-35	Szentes
-36	Kiskunfélegyháza
-37	Mosonmagyaróvár
-38	Kazincbarcika
-39	Orosháza
-40	IKE
-41	Esztergom
-42	Budaors
-43	Siófok
-44	Mako
-45	Szentendre
-46	Keszthely
-47	Paks
-48	Szarvas", "Kalocsa", "Sátoraljaújhely"],
-		"spyNames": ["00000000", "00000001", "00000010", "00000011", "00000100", "00000101", "00000110", "00000111", "00001000"]
+		"cities": ["Budapest", "Debrecen", "Miskolc", "PECs", "Gyor", "Kecskemet",
+			"Szolnok", "ERD", "Sopron", "Eger", "Hodmezovasarhely", "Nagykanizsa",
+			"Hajdúszoboszló", "Cegled", "Bahia", "Salgotarjan", "VAC", "Dad", "Gyula",
+			"Orosháza", "IKE", "Esztergom", "Budaors", "Siófok", "Mako", "Szentendre", "Keszthely", "Paks", "Szarvas", "Kalocsa"],
+		"spyNames": ["", "", "", "", "", "", ""]
 	},
 ]
