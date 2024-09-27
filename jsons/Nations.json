@@ -43,8 +43,8 @@
 
 		"tradeRequest": "I am sure this deal is beneficial for all science",
 
-		"outerColor": [105,  240,  140],
-		"innerColor": [20, 20, 20],
+		"outerColor": [180,  20,  84],
+		"innerColor": [154, 59, 41],
 		"uniqueName": "A-Group, Sci",
 		"uniques": [
 			"[+20]% [production] [in capital]",
