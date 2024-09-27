@@ -1,6 +1,6 @@
 [
   {
     "name": "collective farm",
-    "replace": "barn"
+    "replaces": "granary"
   }
 ]
