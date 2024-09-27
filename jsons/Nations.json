@@ -47,14 +47,13 @@
 		"innerColor": [20, 20, 20],
 		"uniqueName": "A-Group, Sci",
 		"uniques": [
-			"[+1000]% [Science] [in all cities]",
-			"[+70]% [Science] <while the empire is happy>",
-	        //"[+100]% [science] from "
+			"[+20]% [production] [in capital]",
+			"[+10]% [production] [in all sities]"
 			],
 		"cities": ["Budapest", "Debrecen", "Miskolc", "PECs", "Gyor", "Kecskemet",
 			"Szolnok", "ERD", "Sopron", "Eger", "Hodmezovasarhely", "Nagykanizsa",
 			"Hajdúszoboszló", "Cegled", "Bahia", "Salgotarjan", "VAC", "Dad", "Gyula",
 			"Orosháza", "IKE", "Esztergom", "Budaors", "Siófok", "Mako", "Szentendre", "Keszthely", "Paks", "Szarvas", "Kalocsa"],
-		"spyNames": ["Gabriel Joseffy", "Sophia Tersztyansky", "Adelaida Molnar", "", "", "", ""]
+		"spyNames": ["Gabriel Joseffy", "Sophia Tersztyansky", "Adelaida Molnar", "01", "02", "03", "04"]
 	},
 ]
