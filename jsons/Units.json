@@ -2,6 +2,8 @@
   {
     "name": "workers' militias",
     "replaces": "Great War Infantry"
-    "enqueTo": "Hungr
+    "enqueTo": "Hungarian Soviet Socialist Republic(HSSR)",
+    "unitType": "Civilian",
+    "movement": 4,
   }
 ]
